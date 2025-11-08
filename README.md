@@ -3,7 +3,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 <p>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=IT+Undergraduate;Trainee+Odoo+Developer;Tech+Lover;" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&vCenter=true&width=700&height=60&lines=IT+Undergraduate;Junior+Odoo+Developer;Tech+Lover;" alt="Typing SVG" /></a>
 </p>
 
 
